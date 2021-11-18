@@ -1,0 +1,9 @@
+{
+  //添加一条json5数据
+  title: 'test for json5',
+  content: {
+    a: 20,
+    b: 'hello json5',
+    c: 'how to learn'
+  }
+}

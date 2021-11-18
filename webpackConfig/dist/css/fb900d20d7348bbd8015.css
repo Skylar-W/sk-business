@@ -1,0 +1,29 @@
+/*!**************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/public/css/app.css ***!
+  \**************************************************************************/
+body {
+  color: cornflowerblue;
+}
+h1 {
+  color: mediumvioletred
+}
+div {
+  width: 600px;
+  height: 300px;
+  margin: 20px;
+  padding: 10px;
+  font-size: 20px;
+  color: red;
+  border: 2px double yellowgreen;
+}
+
+button {
+  outline: none;
+  width: 200px;
+  height: 80px;
+  margin: 15px;
+  background-color: darkorange;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3NzL2ZiOTAwZDIwZDczNDhiYmQ4MDE1LmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtFQUNFLHFCQUFxQjtBQUN2QjtBQUNBO0VBQ0U7QUFDRjtBQUNBO0VBQ0UsWUFBWTtFQUNaLGFBQWE7RUFDYixZQUFZO0VBQ1osYUFBYTtFQUNiLGVBQWU7RUFDZixVQUFVO0VBQ1YsOEJBQThCO0FBQ2hDOztBQUVBO0VBQ0UsYUFBYTtFQUNiLFlBQVk7RUFDWixZQUFZO0VBQ1osWUFBWTtFQUNaLDRCQUE0QjtFQUM1QixtQkFBbUI7QUFDckIsQyIsInNvdXJjZXMiOlsid2VicGFjazovL2RhdGEtbG9hZGVyLy4vc3JjL3B1YmxpYy9jc3MvYXBwLmNzcyJdLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcclxuICBjb2xvcjogY29ybmZsb3dlcmJsdWU7XHJcbn1cclxuaDEge1xyXG4gIGNvbG9yOiBtZWRpdW12aW9sZXRyZWRcclxufVxyXG5kaXYge1xyXG4gIHdpZHRoOiA2MDBweDtcclxuICBoZWlnaHQ6IDMwMHB4O1xyXG4gIG1hcmdpbjogMjBweDtcclxuICBwYWRkaW5nOiAxMHB4O1xyXG4gIGZvbnQtc2l6ZTogMjBweDtcclxuICBjb2xvcjogcmVkO1xyXG4gIGJvcmRlcjogMnB4IGRvdWJsZSB5ZWxsb3dncmVlbjtcclxufVxyXG5cclxuYnV0dG9uIHtcclxuICBvdXRsaW5lOiBub25lO1xyXG4gIHdpZHRoOiAyMDBweDtcclxuICBoZWlnaHQ6IDgwcHg7XHJcbiAgbWFyZ2luOiAxNXB4O1xyXG4gIGJhY2tncm91bmQtY29sb3I6IGRhcmtvcmFuZ2U7XHJcbiAgYm9yZGVyLXJhZGl1czogMTBweDtcclxufSJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
