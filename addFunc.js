@@ -4,3 +4,6 @@ function add(x, y ) {
 }
 
 add(30, 90)
+
+//第二次执行add函数
+add(70, 240)
